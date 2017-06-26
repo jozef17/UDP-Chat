@@ -2,7 +2,7 @@
 
 *[EN](README.md)*
 
-[Pozriet zdrojový kód](https://github.com/jozef17/UDP-Chat/app/src/main/java/sk/blazicek)
+[Pozriet zdrojový kód](https://github.com/jozef17/UDP-Chat/tree/master/app/src/main)
 
 # ![Logo](other/ic_launcher.png) UDP Chat - Android Aplikácia
 

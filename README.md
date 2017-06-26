@@ -2,7 +2,7 @@
 
 *[SK](README.sk.md)*
 
-[View source code](https://github.com/jozef17/UDP-Chat/app/src/main/java/sk/blazicek)
+[View source code](https://github.com/jozef17/UDP-Chat/tree/master/app/src/main)
 
 # ![Logo](other/ic_launcher.png) UDP Chat - Android App
 
