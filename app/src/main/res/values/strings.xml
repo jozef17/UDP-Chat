@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UDP Chat</string>
+    <string name="changeUsername">Change Username</string>
+    <string name="send">Send</string>
+    <string name="defaultUser">Android User at </string>
+    <string name="maxCharacters">2 000</string>
+
+    <string name="save">Save</string>
+    <string name="port">Sending Port Number</string>
+    <string name="size">Max Datagram Size</string>
+    <string name="settings">Settings</string>
+
+    <string name="error_port">Error: required port is already in use</string>
+    <string name="error_size">Error: size must be between 14 and 2 000</string>
+</resources>
