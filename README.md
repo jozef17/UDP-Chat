@@ -48,21 +48,21 @@ Sleeps given time, than checks if confirmation message has been received for all
 ![protocol](other/Protocol.png)
 
 - 1st byte represents type of message
--- 0 Discovery
--- 1 Message
--- 2 Confirmation
--- 3 Re-name
+    - 0 = Discovery
+    - 1 = Message
+    - 2 = Confirmation
+    - 3 = Re-name
 - 2nd to 5th bytes represents serial number of dataram
 - 6th to 9th bytes represents total count of datagrams in series
 - other bytes represents metadata or content (depending on type of message)
 
 ### Metadata
 - Discovery
--- 10th byte 0 for request, 1 for response
+    - 10th byte 0 for request, 1 for response
 - Message
--- 10th to 13th bytes - id of message
+    - 10th to 13th bytes - id of message
 - Confirmation
--- 10th to 13th bytes - id of message
+    - 10th to 13th bytes - id of message
 
 ## Class Structure
 
